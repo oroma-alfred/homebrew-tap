@@ -6,8 +6,8 @@ class Phpwarden < Formula
 
   desc "PHP vulnerability scanner ranked by real-world exploitation (CISA KEV, EPSS)"
   homepage "https://phpwarden.io"
-  url "https://files.pythonhosted.org/packages/9e/8e/b15050b36b3fbed4cb8e521e57ee9ee9b685b0e39b0a493bc8ae2807296e/phpwarden-2.2.1.tar.gz"
-  sha256 "20ffda50b1813f2744bf91284425e41d6c01975027b9d2114ca6f913aca0812b"
+  url "https://files.pythonhosted.org/packages/93/61/bf7cb5bbbda850eba504498de6a77b81c8b88bef8cf185106de91b82429c/phpwarden-2.3.0.tar.gz"
+  sha256 "67200cf009ca1c06beab6457968cd6736eeac2e28f2ff9c709705c235feedc1b"
   license "Apache-2.0"
 
   depends_on "python@3.13"
